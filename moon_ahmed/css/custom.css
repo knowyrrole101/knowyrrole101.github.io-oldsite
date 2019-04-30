@@ -1,0 +1,39 @@
+/* PORTFOLIO PIC CUSTOM CSS */
+img{
+
+  opacity: 0.5;
+  filter: alpha(opacity=50);
+  filter: drop-shadow(5px 5px 5px #222);
+  border-radius: 50%;
+  max-width: 100%;
+  height: auto;
+}
+
+img:hover {
+  opacity: 1.0;
+  filter: alpha(opacity=100); /* For IE8 and earlier */
+}
+
+/* NAVBAR CUSTOM CSS */
+ul {
+  list-style-type:none;
+  margin:0;
+  padding:0;
+  overflow:hidden;
+  background-color:#333;
+}
+li {
+  float: left;
+
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: #111;
+  text-decoration: none;
+}
