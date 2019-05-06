@@ -1,5 +1,5 @@
 /* PORTFOLIO PIC CUSTOM CSS */
-img{
+.portfolio-pic{
 
   opacity: 0.5;
   filter: alpha(opacity=50);
@@ -9,7 +9,7 @@ img{
   height: auto;
 }
 
-img:hover {
+.portfolio-pic:hover {
   opacity: 1.0;
   filter: alpha(opacity=100); /* For IE8 and earlier */
 }
