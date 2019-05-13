@@ -23,6 +23,16 @@ The porfolio of companies I have worked at includes:
 ![ea](https://logo.clearbit.com/ea.com?size=50)
 ![indeed](https://logo.clearbit.com/indeed.jobs?size=50)
 
-My current role is with Indeed running mobile growth for the Indeed Job Search and Job Spotter mobile applications.
+### Current Role:
+I am currently running mobile growth at Indeed in Austin. I work specifically on paid growth
+for the Job Search Mobile App along with the Job Spotter Mobile Application.
 
 ## Interests/Hobbies
+I have a varied number of interests. Here are a few of them:
+1. Ice Hockey
+
+2. Turntablism
+
+3. Software Development
+
+4. Fitness (Weightlifting)

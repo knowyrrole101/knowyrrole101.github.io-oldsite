@@ -1,10 +1,29 @@
 ---
 layout: default
-title:  "Welcome to Jekyll!"
-date:   2019-04-29 14:52:44 -0500
-categories: jekyll update
+title:  "Designing Data Intensive Applications"
+date:   2019-05-13
+categories: books designing-data-intensive-applications
+tags: [programming, software applications]
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+# Design Data Intensive Applications
+
+![design-data-intensive-applications-book](https://griffio.github.io/public/ddia.jpg)
+
+I recently started reading Designing Data Intensive Applications and would like to write a blog post from each major section
+I run through so I can more thoroughly understand what I am reading.
+
+A lot of the concepts are a bit over my head at this point but when stack googling some of the key concepts per chapter and
+diving back into it it starts to make more sense.
+
+The blog posts will be broken down by chapters as follows:
+
+Chapter 1: 
+
+
+{% highlight sql %}
+select *
+from database
+{% endhighlight %}
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
