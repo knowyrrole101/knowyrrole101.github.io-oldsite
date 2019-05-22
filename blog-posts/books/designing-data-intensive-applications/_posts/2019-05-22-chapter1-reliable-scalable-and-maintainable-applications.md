@@ -1,24 +1,17 @@
 ---
 layout: default
-title:  "Designing Data Intensive Applications"
-date:   2019-05-13
+title:  "Designing Data Intensive Applications - Chapter 1"
+date:   2019-05-22
 categories: books designing-data-intensive-applications
-tags: [programming, software applications]
+tags: [books, programming, software applications]
 ---
-# Design Data Intensive Applications
+# Chapter 1: Reliable, Scalable, and Maintanable Applications
 
 ![design-data-intensive-applications-book](https://griffio.github.io/public/ddia.jpg)
 
-I recently started reading Designing Data Intensive Applications and would like to write a blog post from each major section
-I run through so I can more thoroughly understand what I am reading.
+Chapter 1 Summary: 
 
-A lot of the concepts are a bit over my head at this point but when stack googling some of the key concepts per chapter and
-diving back into it it starts to make more sense.
-
-The blog posts will be broken down by chapters as follows:
-
-Chapter 1: 
-
+Applications today tend to be more data intensive as opposed to compute intensive.
 
 {% highlight sql %}
 select *

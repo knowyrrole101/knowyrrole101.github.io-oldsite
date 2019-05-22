@@ -5,7 +5,32 @@
     {% include navbar.html %}
     {% include header.html%}  
     <main id="content" class="main-content" role="main">
+      <div class="w3-container w3-animate-left">
+        <h1 class="w3-center">Product Growth & Software Engineering</h1>
+        <p><em>Technology professional focused on having a deep understanding of both the business and technical pieces of digital products.
+           The ultimate goal is to bridge the gap between technical + business folks to ensure less friction in product development.</em> 
+        </p>
+      </div>
+      <div class="w3-row-padding w3-animate-right">
+        <div class="w3-third">
+          <h2>Resume</h2>
+          <p>Feel free to review and download my resume via the Dropbox link:</p>
+          <br/>
+          <a href="https://www.dropbox.com/s/qy1h78nejol1icy/moon_ahmed_resume_2019.docx?dl=0" target="_blank" class="w3-button w3-white w3-border w3-border-green w3-round-large">Download</a>
+        </div> 
+        <div class="w3-third">
+          <h2>Projects</h2>
+          <p>I have started to develop around 6 web projects. These projects are primarily in node, react, or django.</p>
+          <a href="#" class="w3-button w3-white w3-border w3-border-green w3-round-large">Projects</a>
+        </div>
+        <div class="w3-third">
+          <h2>Blog</h2>
+          <p>I plan on writing blogs on various topics in software development and product growth.</p>
+          <a href="#" class="w3-button w3-white w3-border w3-border-green w3-round-large">Blog</a>
+        </div>
+      </div>
       {{ content }}
+      {% include footer.html %}
     </main>
   </body>
 </html>
